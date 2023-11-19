@@ -1,0 +1,14 @@
+.firstEl{
+    background-color: black;
+    color: white;
+}
+
+.secondEl {
+    background-color: rgb(253, 253, 0);
+}
+
+.firstEl,
+.secondEl {
+    font-family: 'Helvitica', 'Times New Roman', 'sans-serif';
+    font-size: 28px
+}
